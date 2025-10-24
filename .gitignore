@@ -1,0 +1,26 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+.env/
+
+# Data files (if private/large)
+*.csv
+*.xlsx
+*.pkl
+*.pickle
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.pt
+*.joblib
+
+# macOS system files
+.DS_Store
+
